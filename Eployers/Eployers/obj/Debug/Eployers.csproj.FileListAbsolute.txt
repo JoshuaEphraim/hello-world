@@ -1,0 +1,6 @@
+E:\Программирование\Eployers\Eployers\bin\Debug\Eployers.exe.config
+E:\Программирование\Eployers\Eployers\bin\Debug\Eployers.exe
+E:\Программирование\Eployers\Eployers\bin\Debug\Eployers.pdb
+E:\Программирование\Eployers\Eployers\obj\Debug\Eployers.csprojResolveAssemblyReference.cache
+E:\Программирование\Eployers\Eployers\obj\Debug\Eployers.exe
+E:\Программирование\Eployers\Eployers\obj\Debug\Eployers.pdb
